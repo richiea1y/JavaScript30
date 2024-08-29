@@ -6,7 +6,10 @@
 
 ### Main goals
 
-### Demo: [Click me]()
+- Making this pretty sweet CSS clock
+- It takes in the current time from JavaScript, and it’s going to update these hands, second, hands based on the current hour, minute, second.
+
+### Demo: [Click me](https://richiea1y.github.io/JavaScript30/Day2-CSS+JS-Clock/)
 
 ## ✏️ Notes
 
