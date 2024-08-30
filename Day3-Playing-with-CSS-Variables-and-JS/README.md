@@ -10,7 +10,7 @@
 
 - Updates CSS variables using JavaScript to dynamically change the appearance of an image.
 
-### Demo: [Click me]()
+### Demo: [Click me](https://richiea1y.github.io/JavaScript30/Day3-Playing-with-CSS-Variables-and-JS/)
 
 ## ✏️ Notes
 
